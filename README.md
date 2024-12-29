@@ -24,7 +24,7 @@ This project demonstrates how to interface a DHT (Temperature and Humidity) sens
 
 ### Circuit Diagram  
 The circuit consists of an Arduino UNO Microcontroller interfaced with a DHT 11 ( Temperature & Humidity ) Sensor and a LCD 16*2 Display to show Readings. Power Supply & GND Terminal has been provided to DHT 11 Sesnor and LCD Display  
-![ Image](https://github.com/user-attachments/assets/a3e0c905-76c4-4007-bfb7-f9a693b8aa8b)
+![ Image]<img src="https://github.com/user-attachments/assets/a3e0c905-76c4-4007-bfb7-f9a693b8aa8b"></img>
 
 ---
 
@@ -85,7 +85,6 @@ void loop() {
 }
 
 ---
-##Simulation Video
-
+### Simulation Video
 https://github.com/user-attachments/assets/b778afa8-0eca-4d6f-8e23-2fbf0cf943e9
 
